@@ -7,3 +7,5 @@ Current WIP spreadsheets:
 
 Current to-do list:
 1. Create Google Sheets versions of the spreadsheets for wider accessibility
+
+Electric Blast Furnace (Google Sheets) - https://docs.google.com/spreadsheets/d/1Y75VobGqG2YkmgcDHF65dUijikSVnAU5r03KKloH3aE/edit?usp=sharing
